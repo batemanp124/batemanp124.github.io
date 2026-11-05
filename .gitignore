@@ -1,0 +1,12 @@
+# Private material: never publish (see AGENTS.md)
+private/
+
+# CV source files contain a phone number and email
+*.pdf
+*.doc
+*.docx
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
